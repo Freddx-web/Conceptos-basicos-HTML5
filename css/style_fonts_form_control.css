@@ -1,0 +1,114 @@
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: #a9a9a9;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #b1b1b1;
+}
+    .navbar-default {
+    background-color: #fff;
+    border-color: #fd91c2;
+}
+    .container {
+    padding-right: 19px;
+    padding-left: 19px;
+    margin-right: auto;
+    margin-left: auto;
+    }
+    .Blocker-1 {
+    background-image: url(../img/fire-2903682.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+    .Blocker-2 {
+    background-color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #000000;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+    .Blocker-3 { /*  universe-expansion-explosion-big-bang-the-universe.jpg*/
+    background-image: url(../img/estrellas-en-el-espacio-3907.jpg);
+    background-color: #000000;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+    .Blocker-4 {
+    background-color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #000000;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+    .Blocker-5 {
+    background-image: url(../img/photo-1555066931-4365d14bab8c.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+    .Blocker-6 {
+    background-color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #000000;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+    .Blocker-7 {
+    background-image: url(../img/Lights_multicolor_bokeh_optical_fiber-Vector_Design_HD_Wallpaper_1366x768.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+    .Blocker-8 {
+    background-image: url(../img/universe-expansion-explosion-big-bang-the-universe.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    }
+  .glyphicon {
+    font-size: 180px;
+    margin-bottom: 20px;
+    color: #ddd;
+  }
+  .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+.title {
+  color: grey;
+  font-size: 18px;
+}
